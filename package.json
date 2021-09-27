@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a00-officialmsu/issues"
   },
-  "homepage": "https://github.com/jdmar3-comp426/a00-officialmsu#readme"
+  "homepage": "https://github.com/jdmar3-comp426/a00-officialmsu#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
 }
